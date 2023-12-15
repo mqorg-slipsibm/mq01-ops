@@ -1,4 +1,4 @@
-## Overview
+## Overview - STU
 
 This tutorial demonstrates a platform engineering approach to MQ development and
 deployment. It demonstrates continuous integration, continuous deployment,
